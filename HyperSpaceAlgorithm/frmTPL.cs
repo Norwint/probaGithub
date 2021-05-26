@@ -235,6 +235,7 @@ namespace TPL
         private void lstData0_SelectedIndexChanged(object sender, EventArgs e)
         {
             //prova
+            //brancanova
         }
     }
 }
