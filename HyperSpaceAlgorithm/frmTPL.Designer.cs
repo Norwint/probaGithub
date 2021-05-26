@@ -54,6 +54,7 @@
             this.lstData0.ScrollAlwaysVisible = true;
             this.lstData0.Size = new System.Drawing.Size(958, 199);
             this.lstData0.TabIndex = 1;
+            this.lstData0.SelectedIndexChanged += new System.EventHandler(this.lstData0_SelectedIndexChanged);
             // 
             // lstData1
             // 

@@ -217,6 +217,13 @@ namespace TPL
 
         }
 
+
+
+
+
+
+
+
         ///Falten les funcions que llegeixen el fitxer i en darrer cas el transformen en un array de strings amb les paraules. 
         ///Podeu utilitzar la funció de l'exemple com a base (CreateWordArray), però penseu que ara els fitxers són locals i no  una URL,
         ///i que potser caldrà fer-ho d'una forma una mica diferent per afavorir automatitzar el programa.
@@ -225,12 +232,9 @@ namespace TPL
 
         #endregion
 
-
-
-
-
-
-
-
+        private void lstData0_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //prova
+        }
     }
 }
